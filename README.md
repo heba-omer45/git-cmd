@@ -18,3 +18,21 @@ git staging
 
 * git add .
 * git commit -m "your message"
+
+
+git Push
+
+* git push origin -u main
+
+
+list directories
+
+* ls
+* ls -all
+
+
+directories
+
+* cd  (change directory)
+* mkdir  (make directory)
+* 
