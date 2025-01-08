@@ -8,3 +8,13 @@ Configuration CMD
 * git config --list
 
 
+Git Clone and Status
+
+* git clone <url>
+* git Status
+
+
+git staging
+
+* git add .
+* git commit -m "your message"
